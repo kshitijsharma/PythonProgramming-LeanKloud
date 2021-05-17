@@ -8,3 +8,6 @@
 
 # Task 2-Topper Calculator
 Run the python file with the file name as argument. The program uses Heap sort so as to get the respective subject toppers thereby providing a time complexity of O(nlogn).
+
+
+The Screenshots and Video for each task are present in their respective folders.
